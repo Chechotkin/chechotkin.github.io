@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My First Hugo Site </title>
-    <link>http://chechotkin.github.io/post/</link>
+    <link>https://chechotkin.github.io/post/</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>good to great 2</title>
-          <link>http://chechotkin.github.io/post/good-to-great-2/</link>
+          <link>https://chechotkin.github.io/post/good-to-great-2/</link>
           <pubDate>Wed, 31 Aug 2016 11:38:54 EEST</pubDate>
           <author></author>
-          <guid>http://chechotkin.github.io/post/good-to-great-2/</guid>
+          <guid>https://chechotkin.github.io/post/good-to-great-2/</guid>
           <description></description>
         </item>
       
@@ -23,10 +23,10 @@
       
         <item>
           <title>Good to Great Book Review</title>
-          <link>http://chechotkin.github.io/post/good-to-great/</link>
+          <link>https://chechotkin.github.io/post/good-to-great/</link>
           <pubDate>Sun, 14 Feb 2016 16:11:58 &#43;0530</pubDate>
           <author></author>
-          <guid>http://chechotkin.github.io/post/good-to-great/</guid>
+          <guid>https://chechotkin.github.io/post/good-to-great/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
 </description>
         </item>
